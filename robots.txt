@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://zexdjbir.github.io/sitemap/sitemap.txt
